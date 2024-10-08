@@ -1,4 +1,5 @@
 //This program will ask the user for 9 numbers and test if they make a Magic Square
+// change!!
 
 package ff;
 
